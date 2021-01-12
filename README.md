@@ -39,7 +39,7 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 * Li et al, Visual Perception Model for Rapid and Adaptive Low-light Image Enhancement. [[paper](https://arxiv.org/abs/2005.07343)][[code](https://github.com/MDLW/Low-Light-Image-Enhancement)]
 * Zhang et al, Self-supervised Image Enhancement Network: Training with Low Light Images Only. [[paper](https://arxiv.org/abs/2002.11300)][[code](https://github.com/hitzhangyu/Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only)]
 * Xu et al, Learning to Restore Low-Light Images via Decomposition-and-Enhancement. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.pdf)][code]
-* Weligampola et al, A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images. [[paper](https://arxiv.org/pdf/2006.15304), [Presentation](https://gihan.me/projects/fyp/mercon-2020-presentation.pdf)]
+* Weligampola et al, A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images. [[paper](https://arxiv.org/pdf/2006.15304)][[Presentation](https://gihan.me/projects/fyp/mercon-2020-presentation.pdf)]
 
 ### 2019
 * Wang et al, Underexposed Photo Enhancement using Deep Illumination Estimation. [[paper](https://drive.google.com/file/d/1CCd0NVEy0yM2ulcrx44B1bRPDmyrgNYH/view)][[code](https://github.com/wangruixing/DeepUPE)]
